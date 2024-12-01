@@ -1,5 +1,4 @@
-![logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/c4d73363342391.5aae0d5bacf95.gif)
-
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/c4d73363342391.5aae0d5bacf95.gif" alt="Sample Image" width="1000" height="400">
 
 <h1 align="center">Hi there! 👋 <br>I'm Shombhunath Karan</h1>
 <h3 align="center">A passionate and aspiring Full-Stack Web Developer based in Kolkata.<br>Every day is a new opportunity to learn and grow.</h3>

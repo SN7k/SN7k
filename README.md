@@ -7,17 +7,18 @@
 
 
 
-
 <br>🎓 **BCA Undergraduate** at **Brainware University** 
 <br> 💻 Aspiring Full-Stack Web Developer  
 **Projects**:  <br>- Developed and manage **[Luckart.shop](#)**, an e-commerce website.  <br>- Currently working on an exciting new e-commerce project (in progress).  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSN7k%2FSN7k&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shombhunath-karan/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSN7k%2FSN7k&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shombhunath-karan/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61552513097713)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/shombhu__/)](https://www.instagram.com/shombhu__)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karanshombhu@gmail.com)
 
 
+
+<h1></h1>
 
 
   ### 🖥 Skills
@@ -40,7 +41,6 @@
 
 ![Sn7k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sn7k&theme=react&show_icons=true&hide_border=false&layout=compact)
 
-</hr>
 
 
 ![Sn7k's Stats](https://github-readme-stats.vercel.app/api?username=Sn7k&theme=react&show_icons=true&hide_border=false&count_private=true)

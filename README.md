@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there! 👋 <br>I'm Shombhunath Karan</h1>
-<h3 align="center">A passionate and aspiring Software Engineer based in Kolkata.<br>Every day is a new opportunity to learn and grow</h3>
+<h3 align="center">A passionate and aspiring Full-Stack Web Developer based in Kolkata.<br>Every day is a new opportunity to learn and grow</h3>
 
 
 <br>🎓 **BCA Undergraduate** at **Brainware University** 

@@ -4,7 +4,11 @@
 <h3 align="center">A passionate and aspiring Software Engineer based in Kolkata.<br>Every day is a new opportunity to learn and grow</h3>
 
 
-### Hi there! 👋 I'm Shombhunath Karan  <br><br>🎓 **BCA Undergraduate** at **Brainware University**  <br>💻 Passionate **Full-Stack Web Developer** with a strong foundation in:  **Projects**:  <br>- Developed and manage **[Luckart.shop](#)**, an e-commerce website.  <br>- Currently working on an exciting new e-commerce project (in progress).  <br><br>🌱 Constantly learning and exploring new technologies to enhance my skills.  <br><br>🌟 **Professional Vision**: To build scalable, user-centric web applications and contribute to impactful tech solutions, while growing as a dynamic full-stack developer.  
+🎓 **BCA Undergraduate** at **Brainware University**  <br> 
+💻 Aspiring Full-Stack Web Developer  
+**Projects**:  <br>- Developed and manage **[Luckart.shop](#)**, an e-commerce website.  
+<br>- Currently working on an exciting new e-commerce project (in progress).  
+
 
 
 ## 🌐 Socials:

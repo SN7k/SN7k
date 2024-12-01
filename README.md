@@ -1,6 +1,10 @@
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/c4d73363342391.5aae0d5bacf95.gif)
+
 
 <h1 align="center">Hi there! 👋 <br>I'm Shombhunath Karan</h1>
-<h3 align="center">A passionate and aspiring Full-Stack Web Developer based in Kolkata.<br>Every day is a new opportunity to learn and grow</h3>
+<h3 align="center">A passionate and aspiring Full-Stack Web Developer based in Kolkata.<br>Every day is a new opportunity to learn and grow.</h3>
+
+
 
 
 
@@ -8,20 +12,41 @@
 <br> 💻 Aspiring Full-Stack Web Developer  
 **Projects**:  <br>- Developed and manage **[Luckart.shop](#)**, an e-commerce website.  <br>- Currently working on an exciting new e-commerce project (in progress).  
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSN7k%2FSN7k&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shombhunath-karan/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61552513097713)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/shombhu__/)](https://www.instagram.com/shombhu__)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karanshombhu@gmail.com)
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61552513097713) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shombhu__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shombhunath-karan) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=flat&logo=Uber&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SN7k&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SN7k&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SN7k&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SN7k&label=Profile%20Views&color=11&icon=2&pretty=true" />
-</a>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ### 🖥 Skills
+<li> Full-Stack Web Developer</li>
+<li> Web design</li>
+<li> Microsoft Office</li>
+
+
+  
+
+
+
+
+<hr>
+  
+### ⚙️ Languages and Tools
+
+![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=plastic&logo=HTML5&color=313131) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=plastic&logo=CSS3&color=313131) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=JavaScript&color=313131) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=Java&color=313131) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=plastic&logo=PHP&color=313131) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=313131) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=plastic&logo=Bootstrap&color=313131) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&color=313131) ![Bootstrap](https://img.shields.io/badge/-Netlify-05122A?style=plastic&logo=Netlify&color=313131) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=plastic&logo=Bootstrap&color=313131) ![Bootstrap](https://img.shields.io/badge/-WordPress-05122A?style=plastic&logo=WordPress&color=313131) ![Bootstrap](https://img.shields.io/badge/-Apache-05122A?style=plastic&logo=Apache&color=313131) ![Bootstrap](https://img.shields.io/badge/-MicrosoftSQLServer-05122A?style=plastic&logo=MicrosoftSQLServer&color=313131) ![Bootstrap](https://img.shields.io/badge/-Adobe-05122A?style=plastic&logo=Adobe&color=313131) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Lightroom-05122A?style=plastic&logo=Adobe-Lightroom&color=313131) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=Git&color=313131) ![Bootstrap](https://img.shields.io/badge/-DBMS-05122A?style=plastic&logo=DBMS&color=313131) ![Bootstrap](https://img.shields.io/badge/-Unity-05122A?style=plastic&logo=Unity&color=313131) ![Bootstrap](https://img.shields.io/badge/-Ubisoft-05122A?style=plastic&logo=Ubisoft&color=313131) ![Bootstrap](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=plastic&logo=Unreal-Engine&color=313131) ![Bootstrap](https://img.shields.io/badge/-Riot%20Games-05122A?style=plastic&logo=Riot-Games&color=313131) ![Bootstrap](https://img.shields.io/badge/-PlayStation%20Network-05122A?style=plastic&logo=PlayStation-Network&color=313131) ![Bootstrap](https://img.shields.io/badge/-Steam-05122A?style=plastic&logo=Steam&color=313131) ![Bootstrap](https://img.shields.io/badge/-EA-05122A?style=plastic&logo=EA&color=313131) ![Bootstrap](https://img.shields.io/badge/-Vagrant-05122A?style=plastic&logo=Vagrant&color=313131) ![Bootstrap](https://img.shields.io/badge/-Epic%20Games-05122A?style=plastic&logo=Epic-Games&color=313131)
+
+
+![Sn7k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sn7k&theme=react&show_icons=true&hide_border=false&layout=compact)
+
+</hr>
+
+
+![Sn7k's Stats](https://github-readme-stats.vercel.app/api?username=Sn7k&theme=react&show_icons=true&hide_border=false&count_private=true)
+
+
+![Sn7k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sn7k&theme=react&hide_border=false)
+
+
+

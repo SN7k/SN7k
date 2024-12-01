@@ -4,10 +4,9 @@
 <h3 align="center">A passionate and aspiring Software Engineer based in Kolkata.<br>Every day is a new opportunity to learn and grow</h3>
 
 
-🎓 **BCA Undergraduate** at **Brainware University**  <br> 
-💻 Aspiring Full-Stack Web Developer  
-**Projects**:  <br>- Developed and manage **[Luckart.shop](#)**, an e-commerce website.  
-<br>- Currently working on an exciting new e-commerce project (in progress).  
+<br>🎓 **BCA Undergraduate** at **Brainware University** 
+<br> 💻 Aspiring Full-Stack Web Developer  
+**Projects**:  <br>- Developed and manage **[Luckart.shop](#)**, an e-commerce website.  <br>- Currently working on an exciting new e-commerce project (in progress).  
 
 
 

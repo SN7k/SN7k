@@ -8,7 +8,7 @@
 
 <br>🎓 **BCA Undergraduate** at **Brainware University** 
 <br> 💻 Aspiring Full-Stack Web Developer  
-**Projects**:  <br>- Developed and manage **[bussevakolkata.site ](#)**, an e-commerce website.  <br>- Currently working on an exciting new e-commerce project (in progress).  
+**Projects**:  <br>- Developed and manage **[bussevakolkata.site ](https://bussevakolkata.site/)**, an bus-service website.  <br>- Currently working on an exciting new e-commerce project (in progress).  
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shombhunath-karan/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61552513097713)

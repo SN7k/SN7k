@@ -10,6 +10,7 @@
 <br> 💻 Aspiring Full-Stack Web Developer  
 **Projects**:  <br>- Developed and manage **[bussevakolkata.site ](https://bussevakolkata.site/)**, an bus-service website.  <br>- Currently working on an exciting new e-commerce project (in progress).  
 
+![Profile-view](https://komarev.com/ghpvc/?username=sn7k&label=Profile%20views&color=0e75b6&style=flat)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shombhunath-karan/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61552513097713)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/shombhu__/)](https://www.instagram.com/shombhu__)
@@ -45,7 +46,11 @@
 ![Sn7k's Stats](https://github-readme-stats.vercel.app/api?username=Sn7k&theme=react&show_icons=true&hide_border=false&count_private=true)
 
 
-![Sn7k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sn7k&theme=react&hide_border=false)
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/shombhukark"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shombhukark" /></a></p><br><br>
+
 
 
 

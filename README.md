@@ -48,8 +48,5 @@
 
 
 
-<h3 align="left">Support:</h3>
-
-
 
 

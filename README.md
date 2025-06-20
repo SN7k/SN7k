@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
 
-<h1 align="center">Shombhunath Karan <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"></h1>
+<h1 align="center">Shombhunath Karan <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34"></h1>
 <h3 align="center">Full-Stack Engineer • Crafting delightful web experiences from Kolkata</h3>
 
 <p align="center">

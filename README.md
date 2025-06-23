@@ -56,7 +56,6 @@ coffee: true ☕
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sn7k&theme=radical&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sn7k&theme=radical&hide_border=true"  width="48%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn7k&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>

@@ -47,8 +47,7 @@ coffee: true ☕
 | Repo | What I Built | Live Demo |
 | ---- | ------------ | --------- |
 | [**BussevaKolkata**](https://github.com/orgs/Busseva-Kolkata/repositories) | A city transport web app for checking bus routes in Kolkata | [demo](https://bussevakolkata.site/) |
-| [**Flexova**](https://github.com/SN7k/Flexova) | An e-commerce platform offering complete fashion looks sourced from multiple online stores | [demo](#) |
-| [**Incampus**](#) | A modern social platform where students and faculty can share college memories securely | — |
+| [**Incampus**](#) | A modern social platform where students and faculty can share college memories securely |[demo](https://incampus1.netlify.app/) |
 
 ---
 

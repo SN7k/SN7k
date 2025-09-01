@@ -55,11 +55,12 @@ coffee: true ☕
 
 ## 📈 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sn7k&theme=radical&show_icons=true&hide_border=true" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn7k&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=sn7k&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sn7k&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn7k&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 ### 🏆 GitHub Achievements
 

@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Shombhunath Karan <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34"></h1>
-<h3 align="center">Full-Stack Engineer • Crafting delightful web experiences from Kolkata</h3>
+<h3 align="center">Full-Stack Developer • Crafting delightful web experiences from Kolkata</h3>
 
 <p align="center">
   <a href="https://github.com/Sn7k?tab=followers"><img src="https://img.shields.io/github/followers/Sn7k?label=Followers&style=social"></a>
